@@ -1,0 +1,66 @@
+# Project information
+site_name: E3 JSI Research
+site_author: Erik Novak
+site_description: >-
+  The documentation to help start students and researchers on their
+  journey to doing research and publish papers.
+
+# Repository
+repo_name: eriknovak/docs-research
+repo_url: https://github.com/eriknovak/docs-research
+
+# Copyright
+copyright: Copyright &copy; 2022 - 2023 E3 JSI Research
+
+# Configuration
+theme:
+  name: material
+  features:
+    - content.code.annotate
+    - content.tooltips
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: assets/imgs/logo.png
+
+edit_uri: ""
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/E3-JSI
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AiLab_JSI
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ailab-at-jsi-3ab15937/
+
+# Page tree
+nav:
+  - Home: index.md
+  - Writing Papers:
+      - How to Start: papers/how-to-start.md
+      - Questions to Answer: papers/questions-to-answer.md
+      - Templates: papers/templates.md
+
+  - Published Papers:
+      - Sensor Papers: published-papers/sensor-papers.md
+      - NLP Papers: published-papers/nlp-papers.md
