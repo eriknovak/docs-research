@@ -58,9 +58,5 @@ nav:
   - Home: index.md
   - Writing Papers:
       - How to Start: papers/how-to-start.md
-      - Questions to Answer: papers/questions-to-answer.md
-      - Templates: papers/templates.md
+      - Example Paper Structure: papers/structure.md
 
-  - Published Papers:
-      - Sensor Papers: published-papers/sensor-papers.md
-      - NLP Papers: published-papers/nlp-papers.md
