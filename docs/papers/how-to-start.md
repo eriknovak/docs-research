@@ -54,4 +54,4 @@ following requirements are usually common:
 [overleaf]: https://www.overleaf.com
 [ieee-colab]: https://ieee-collabratec.ieee.org/
 
-[Paper Structure]: papers/paper-structure.md
+[Paper Structure]: paper-structure.md

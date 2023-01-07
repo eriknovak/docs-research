@@ -30,4 +30,4 @@ here.
 
 When you are done, you can [Write a Paper].
 
-[Write a Paper]: papers/how-to-start.md
+[Write a Paper]: ../papers/how-to-start.md
