@@ -43,6 +43,19 @@ edit_uri: ""
 plugins:
   - search
 
+# Markdown Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 # Customization
 extra:
   social:
@@ -56,7 +69,13 @@ extra:
 # Page tree
 nav:
   - Home: index.md
-  - Writing Papers:
+  
+  - Run Experiments:
+      - How to Start: experiments/how-to-start.md
+      - Tech Stack: experiments/tech-stack.md
+
+  - Write a Paper:
       - How to Start: papers/how-to-start.md
-      - Example Paper Structure: papers/structure.md
+      - Paper Structure: papers/paper-structure.md
+      - Journals: papers/journals.md
 
