@@ -8,16 +8,17 @@ This page contains resources for finding journals to publish your written papers
 
 ## Search Engines and Catalogs
 
-- :material-link-box: [research.com][research]. Is a website containing lists of
-  top research conferences and journals covering different scientific fields.
+:material-list-box-outline: [research.com][research]. Is a website containing
+lists of top research conferences and journals covering different scientific
+fields.
 
-- :material-link-box: [Elsevier Journal Finder][elsevier-journal-finder]. Is a
-  search engine, where you can input some of your paper's information and it will
-  return a list of Elsevier journals that are relevant to your research.
+:material-magnify: [Elsevier Journal Finder][elsevier-journal-finder]. Is a
+search engine, where you can input some of your paper's information and it will
+return a list of Elsevier journals that are relevant to your research.
 
-- :material-link-box: [Springer Journal Suggestor][springer-journal-suggestor].
-  Is a search engine used to find potential Springer journals to which you can
-  submit your paper to.
+:material-magnify: [Springer Journal Suggester][springer-journal-suggester].
+Is a search engine used to find potential Springer journals to which you can
+submit your paper to.
 
 
 ## Example List of Journals
@@ -25,35 +26,35 @@ The list contains journals that the authors have submitted to or were considerin
 to submit to them. **Note that this is not an exhaustive list.** If you know of a
 journal that should be listed, please let us know.
 
-- :material-link-box: [Computers in Industry][elsevier-cii] [Elsevier]
+- [Computers in Industry][elsevier-cii] `Elsevier`
 
-- :material-link-box: [Information Processing and Management][elsevier-ipm] [Elsevier]
+- [Information Processing and Management][elsevier-ipm] `Elsevier`
 
-- :material-link-box: [Information Sciences][elsevier-is] [Elsevier]
+- [Information Sciences][elsevier-is] `Elsevier`
 
-- :material-link-box: [Knowledge-Based Systems][elsevier-kbs] [Elsevier]
+- [Knowledge-Based Systems][elsevier-kbs] `Elsevier`
 
-- :material-link-box: [IEEE Access][ieee-access] [IEEE]
+- [IEEE Access][ieee-access] `IEEE`
 
-- :material-link-box: [IEEE Transations on Knowledge and Data Engineering][ieee-tkde] [IEEE]
+- [IEEE Transations on Knowledge and Data Engineering][ieee-tkde] `IEEE`
 
-- :material-link-box: [Applied Science][mdpi-as] [MDPI]
+- [Applied Science][mdpi-as] `MDPI`
 
-- :material-link-box: [Scientific Data][nature-sd] [Nature]
+- [Scientific Data][nature-sd] `Nature`
 
-- :material-link-box: [Engineering Applications of Artificial Intelligence][springer-eaai] [Springer]
+- [Engineering Applications of Artificial Intelligence][springer-eaai] `Springer`
 
-- :material-link-box: [Knowledge and Information Systems][springer-kais] [Springer]
+- [Knowledge and Information Systems][springer-kais] `Springer`
 
-- :material-link-box: [Language Resources and Evaluation][springer-lre] [Springer]
+- [Language Resources and Evaluation][springer-lre] `Springer`
 
-- :material-link-box: [Machine Learning][springer-ml] [Springer]
+- [Machine Learning][springer-ml] `Springer`
 
 
 <!-- links -->
 [research]: https://research.com
 [elsevier-journal-finder]: https://journalfinder.elsevier.com
-[springer-journal-suggestors]: https://journalsuggester.springer.com
+[springer-journal-suggester]: https://journalsuggester.springer.com
 
 [elsevier-cii]: https://www.sciencedirect.com/journal/computers-in-industry
 [elsevier-kbs]: https://www.journals.elsevier.com/knowledge-based-systems

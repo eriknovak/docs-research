@@ -19,7 +19,7 @@ these are just guidelines to achieve the above mentioned goals.**
 
 ## Programming Languages
 
-- **:sparkles:[Python][python]**, **[Conda][conda]**
+- :sparkles: **[Python][python]**, **[Conda][conda]**
 
 - **[NodeJS][nodejs]**, **[JavaScript][javascript]**, **[TypeScript][typescript]**
 
@@ -27,12 +27,12 @@ these are just guidelines to achieve the above mentioned goals.**
 
 ## ML Libraries
 
-- **:sparkles:[Scikit-learn][scikit-learn].** It is a free software machine
+- :sparkles: **[Scikit-learn][scikit-learn].** It is a free software machine
   learning library for the Python programming language. It features various
   classification, regression and clustering algorithms including support-vector
   machines, ...
 
-- **:sparkles:[PyTorch][pytorch].** It is a machine learning framework based on
+- :sparkles: **[PyTorch][pytorch].** It is a machine learning framework based on
   the Torch library, used for applications such as computer vision and natural
   language processing, originally developed by Meta AI and now part of the Linux
   Foundation umbrella.
@@ -56,7 +56,7 @@ these are just guidelines to achieve the above mentioned goals.**
 
 ## Databases
 
-- **:sparkles:[PostgreSQL][postgresql].** Also known as Postgres, it is a free
+- :sparkles: **[PostgreSQL][postgresql].** Also known as Postgres, it is a free
   and open-source relational database management system emphasizing extensibility
   and SQL compliance.
 
@@ -91,7 +91,7 @@ these are just guidelines to achieve the above mentioned goals.**
 
 ## Frontend Development
 
-- **:sparkles:[React][react].** It is a free and open-source front-end JavaScript
+- :sparkles: **[React][react].** It is a free and open-source front-end JavaScript
   library for building user interfaces based on UI components.
 
 - **[Angular][angular].** It is a TypeScript-based free and open-source web
@@ -100,16 +100,16 @@ these are just guidelines to achieve the above mentioned goals.**
 
 ## Design
 
-- **:sparkles:[Figma][figma].** It is a collaborative web application for
+- :sparkles: **[Figma][figma].** It is a collaborative web application for
   interface design, with additional offline features enabled by desktop
   applications for macOS and Windows.
 
 ## Reports
 
-- **:sparkles:[Microsoft Word][word].** Microsoft Word is a word processing
+- :sparkles: **[Microsoft Word][word].** Microsoft Word is a word processing
   software developed by Microsoft.
 
-- **:sparkles:[LaTeX][latex]; [Overleaf][overleaf].** LaTeX is a high-quality
+- :sparkles: **[LaTeX][latex]; [Overleaf][overleaf].** LaTeX is a high-quality
   typesetting system; it includes features designed for the production of
   technical and scientific documentation. LaTeX is the de facto standard for
   the communication and publication of scientific documents.

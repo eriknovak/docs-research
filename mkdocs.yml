@@ -1,5 +1,5 @@
 # Project information
-site_name: E3 JSI Research
+site_name: Researcher
 site_author: Erik Novak
 site_description: >-
   The documentation to help start students and researchers on their
@@ -10,12 +10,13 @@ repo_name: eriknovak/docs-research
 repo_url: https://github.com/eriknovak/docs-research
 
 # Copyright
-copyright: Copyright &copy; 2022 - 2023 E3 JSI Research
+copyright: Copyright &copy; 2022 - 2023 Researcher
 
 # Configuration
 theme:
   name: material
   features:
+    - content.code.copy
     - content.code.annotate
     - content.tooltips
     - navigation.indexes
@@ -46,12 +47,18 @@ plugins:
 # Markdown Extensions
 markdown_extensions:
   - admonition
+  - attr_list
+  - def_list
+  - pymdownx.critic
   - pymdownx.details
   - pymdownx.superfences
-  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -69,7 +76,7 @@ extra:
 # Page tree
 nav:
   - Home: index.md
-  
+
   - Run Experiments:
       - How to Start: experiments/how-to-start.md
       - Tech Stack: experiments/tech-stack.md

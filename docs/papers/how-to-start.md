@@ -13,11 +13,11 @@ here.
 ## Writing the Paper
 
 1. **Create an account on Overleaf.** If you don't have an account, you can
-   create one [here](https://www.overleaf.com).
+   create one [here][overleaf].
 
 2. **Get Overleaf Premium Account (optional).** To get the premium account, you
    need to create an account on IEEE Colabratec. You can create an account
-   [here](https://ieee-collabratec.ieee.org/). After creating an account, go to
+   [here][ieee-colab]. After creating an account, go to
    “Account Settings > Attached Services“ and connect to your Overleaf account.
    Make sure you link the same account you created in step 2.
 
@@ -49,3 +49,9 @@ following requirements are usually common:
 5. Declaration of Competing Interests
 
 6. Credit Author Statement
+
+<!-- Links -->
+[overleaf]: https://www.overleaf.com
+[ieee-colab]: https://ieee-collabratec.ieee.org/
+
+[Paper Structure]: papers/paper-structure.md
