@@ -9,12 +9,12 @@ In addition to the structure, it also describes the content of each section.
 **Note that this is just an example of a paper structure - do whatever
 you think is best.**
 
-
 ## Title
+
 The title needs to tell what the paper is about.
 
-
 ## Authors
+
 The authors of the paper. Depending on the journal, the authors may be listed
 in a different order.
 
@@ -24,7 +24,6 @@ should include the name of the institution, the city, and the country.
 Don't forget to include the corresponding author. The corresponding author is the
 person who is responsible for the paper. The corresponding author is usually the
 first author.
-
 
 ## Abstract
 
@@ -41,7 +40,6 @@ Some points the abstract should cover:
 3. How was the contribution evaluated?
 
 4. Results overview
-
 
 ## Introduction
 
@@ -71,27 +69,38 @@ Some points the introduction should cover:
 
     4. List of scientific contributions of the paper
 
+        ??? Example "Example of the scientific contributions list"
+            The contributions of this paper are:
+
+            - the theoretical background of using optimal transport for measuring
+              document relevancy,
+            - a supervised multilingual learning-to-rank model which outputs
+              interpretable relevance scores,
+            - a comparison of the model's performance fine-tuned using two different
+              loss functions commonly used for training document retrieval models
+              that employ language models.
+
 5. Paper structure [per section]
 
 
 ## Related Work
+
 The description of the work performed in the fields related to your research.
 
 !!! Tip
     It is advised to include related work that was published in the journal you
     wish to submit to.
-
-
 ## Methodology
+
 How to solve the problem split into two parts: theory and implementation.
 
-1. Theory [the mathematical description of the solution]
+1. **Theory.** The mathematical description of the solution.
 
-2. Implementation [the model architecture or step-by-step description of the
-   methodology]
-
+2. **Implementation.** The model architecture or step-by-step description of the
+   methodology.
 
 ## Experiment Setting
+
 The experiment setting describes how the proposed solution was evaluated. The
 experiment setting should include the following sections:
 
@@ -127,15 +136,15 @@ experiment setting should include the following sections:
 
     2. Libraries and frameworks used
 
-    3. Possible link to the code
-
+    3. Possible link to the code [optional]
 
 ## Evaluation Results
+
 The section containing the results of the evaluation. It can contain (1) tables
 with metric scores, and (2) figures with the results.
 
-
 ## Discussion
+
 The discussion should contain the findings the evaluation results imply.
 
 1. Performance comparison between the proposed solution and the baseline methods
@@ -144,23 +153,20 @@ The discussion should contain the findings the evaluation results imply.
 
 3. Disadvantages of the proposed solution over the baseline methods
 
+## Conclusion & Future Work
 
-## Conclusion
 The conclusion should summarize the main findings of the paper.
 
 1. The main findings of the paper
 
 2. How does the findings contribute to the field [connection to the introduction]
 
-
-## Future Work
-Possible next steps to advance the research.
-
+3. Possible next steps to advance the research
 
 ## Acknowledgements
+
 Who supported the research, financially or otherwise.
 
-
 ## Bibliography
-The references to the work cited in the paper.
 
+The references to the work cited in the paper.

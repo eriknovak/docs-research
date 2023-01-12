@@ -59,7 +59,7 @@ To install the requirements run:
 pip install -e .
 ```
 
-## 🚀 Run
+## 🔨 Development
 
 To start live-reloading the documentation run:
 
@@ -67,6 +67,17 @@ To start live-reloading the documentation run:
 mkdocs serve
 ```
 
+When suggesting changes, please refer to the [Material for MkDocs] documentation.
+
+## 🚀 Deployment
+
+Once the changes are accepted into the project, the GitHub Actions automatically
+deploy the documentation to the `gh-pages` branch.
+
+
+
 [python]: https://www.python.org/
 [conda]: https://www.anaconda.com/
 [git]: https://git-scm.com/
+
+[Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/getting-started/
