@@ -14,7 +14,7 @@ This page contains a list of tutorials to kickstart working on various AI topics
 - [Collection of Programming Courses on Kaggle]
 
 
-
+<!-- External Links -->
 [Python Basics]: https://www.programiz.com/python-programming
 [Collection of Programming Courses on Kaggle]: https://www.kaggle.com/learn
 

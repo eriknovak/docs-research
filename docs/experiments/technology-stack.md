@@ -111,8 +111,8 @@ these are just guidelines to achieve the above mentioned goals.**
   technical and scientific documentation. LaTeX is the de facto standard for
   the communication and publication of scientific documents.
 
-<!-- links -->
 
+<!-- External Links -->
 [Python]: https://www.python.org/
 [Conda]: https://docs.conda.io/en/latest/
 [NodeJS]: https://nodejs.org/en/

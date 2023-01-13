@@ -30,16 +30,16 @@ theme:
     # Palette toggle for light
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
-      accent: blue
+      primary: blue
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     # Palette toggle for dark
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: white
-      accent: blue
+      primary: blue
+      accent: light blue
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -67,8 +67,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
 
 extra:
   social:
@@ -85,6 +85,7 @@ nav:
 
   - Run an Experiment:
       - How to Start: experiments/how-to-start.md
+      - 🚧 Tutorials: experiments/tutorials.md
       - Technology Stack: experiments/technology-stack.md
       - 🚧 Machines for Development: experiments/machines-for-development.md
       - 🚧 Experiment Examples: experiments/experiment-examples.md
@@ -94,3 +95,6 @@ nav:
       - Paper Structure: papers/paper-structure.md
       - Journals: papers/journals.md
       - 🚧 Conferences: papers/conferences.md
+
+  - Prepare a Project:
+      - 🚧 How to Start: projects/how-to-start.md

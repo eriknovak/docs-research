@@ -33,7 +33,7 @@ here.
    journal. The journal will review the paper and will either accept or reject
    it. If the paper is rejected, you can submit it to another journal.
 
-### Submission Requirements
+## Submission Requirements
 
 Depending on the journal, the submission requirements may vary. However, the
 following requirements are usually common:
@@ -42,16 +42,19 @@ following requirements are usually common:
 
 2. A document containing the paper highlights
 
-3. Author Agreement Statement
+3. Author agreement statement
 
-4. Cover Letter
+4. Cover letter
 
-5. Declaration of Competing Interests
+5. Declaration of competing interests
 
-6. Credit Author Statement
+6. Credit author statement
 
-<!-- Links -->
+
+
+<!-- External Links -->
 [overleaf]: https://www.overleaf.com
 [ieee-colab]: https://ieee-collabratec.ieee.org/
 
+<!-- Internal Links -->
 [Paper Structure]: paper-structure.md

@@ -13,7 +13,7 @@ here.
 ## Running Experiments
 
 1. **Create an account on GitHub.** If you don't have an account, you can
-   create one [here](https://github.com).
+   create one [here][github].
 
 2. **Create a GitHub repository.** The repository is where you will have all of
    your code used to perform the experiments you are interested in. Add the
@@ -30,4 +30,9 @@ here.
 
 When you are done, you can [Write a Paper].
 
+<!-- External Links -->
+[github]: https://github.com
+
+
+<!-- Internal Links -->
 [Write a Paper]: ../papers/how-to-start.md

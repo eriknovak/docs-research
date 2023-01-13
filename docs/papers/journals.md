@@ -51,7 +51,7 @@ journal that should be listed, please let us know.
 - [Machine Learning][springer-ml] `Springer`
 
 
-<!-- links -->
+<!-- External Links -->
 [research]: https://research.com
 [elsevier-journal-finder]: https://journalfinder.elsevier.com
 [springer-journal-suggester]: https://journalsuggester.springer.com
