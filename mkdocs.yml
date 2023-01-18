@@ -85,10 +85,11 @@ nav:
 
   - Run an Experiment:
       - How to Start: experiments/how-to-start.md
-      - 🚧 Tutorials: experiments/tutorials.md
+      - GitHub Playbook: experiments/github-playbook.md
       - Technology Stack: experiments/technology-stack.md
       - 🚧 Machines for Development: experiments/machines-for-development.md
       - 🚧 Experiment Examples: experiments/experiment-examples.md
+      - 🚧 Tutorials: experiments/tutorials.md
 
   - Write a Paper:
       - How to Start: papers/how-to-start.md
