@@ -8,30 +8,30 @@ This page contains resources for finding journals to publish your written papers
 
 ## Search Engines and Catalogs
 
-:material-list-box-outline: [research.com][research]. Is a website containing
+:material-list-box-outline: [research.com][research] is a website containing
 lists of top research conferences and journals covering different scientific
 fields.
 
-:material-magnify: [Elsevier Journal Finder][elsevier-journal-finder]. Is a
+:material-magnify: [Elsevier Journal Finder][elsevier-journal-finder] is a
 search engine, where you can input some of your paper's information and it will
 return a list of Elsevier journals that are relevant to your research.
 
-:material-magnify: [Springer Journal Suggester][springer-journal-suggester].
-Is a search engine used to find potential Springer journals to which you can
+:material-magnify: [Springer Journal Suggester][springer-journal-suggester]
+is a search engine used to find potential Springer journals to which you can
 submit your paper to. By inputing the paper's title and abstract, the search
 engine returns a list of journals that are potentially relevant to your work.
 
-:material-magnify: [MDPI Journal Finder][mdpi-journal-finder].
-Is a search engine used to find potential relevant MDPI journals. By inputing
+:material-magnify: [MDPI Journal Finder][mdpi-journal-finder]
+is a search engine used to find potential relevant MDPI journals. By inputing
 the paper's title and abstract, the search engine returns a list of journals
 that best fit your paper.
 
-:material-magnify: [IEEE Publication Recommender][ieee-publication-recommender].
-Is a search engine used to find potential IEEE journals to which you can
+:material-magnify: [IEEE Publication Recommender][ieee-publication-recommender]
+is a search engine used to find potential IEEE journals to which you can
 submit your paper to. ⚠️ `does not work well`
 
-:material-magnify: [ACM Journals][acm-journals].
-Is a a website containing the list of ACM journals.
+:material-list-box-outline: [ACM Journals][acm-journals] is a a website containing the
+list of ACM journals.
 
 
 
