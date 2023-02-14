@@ -18,10 +18,26 @@ return a list of Elsevier journals that are relevant to your research.
 
 :material-magnify: [Springer Journal Suggester][springer-journal-suggester].
 Is a search engine used to find potential Springer journals to which you can
-submit your paper to.
+submit your paper to. By inputing the paper's title and abstract, the search
+engine returns a list of journals that are potentially relevant to your work.
+
+:material-magnify: [MDPI Journal Finder][mdpi-journal-finder].
+Is a search engine used to find potential relevant MDPI journals. By inputing
+the paper's title and abstract, the search engine returns a list of journals
+that best fit your paper.
+
+:material-magnify: [IEEE Publication Recommender][ieee-publication-recommender].
+Is a search engine used to find potential IEEE journals to which you can
+submit your paper to. ⚠️ `does not work well`
+
+:material-magnify: [ACM Journals][acm-journals].
+Is a a website containing the list of ACM journals.
+
+
 
 
 ## Example List of Journals
+
 The list contains journals that the authors have submitted to or were considering
 to submit to them. **Note that this is not an exhaustive list.** If you know of a
 journal that should be listed, please let us know.
@@ -55,6 +71,9 @@ journal that should be listed, please let us know.
 [research]: https://research.com
 [elsevier-journal-finder]: https://journalfinder.elsevier.com
 [springer-journal-suggester]: https://journalsuggester.springer.com
+[mdpi-journal-finder]: https://www.mdpi.com/about/journalselector
+[ieee-publication-recommender]: https://publication-recommender.ieee.org/periodicals
+[acm-journals]: https://dl.acm.org/journals
 
 [elsevier-cii]: https://www.sciencedirect.com/journal/computers-in-industry
 [elsevier-kbs]: https://www.journals.elsevier.com/knowledge-based-systems
